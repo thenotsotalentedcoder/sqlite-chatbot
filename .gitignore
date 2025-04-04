@@ -1,0 +1,23 @@
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+temp/
+*.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
